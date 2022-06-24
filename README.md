@@ -24,7 +24,7 @@
 toilet
 ```
 
-´´´
+```
 $linux-⛓ pendu: sudo git clone https://github.com/Lucstay11/Bash-pendu
 $linux-⛓pendu: cd Bash-pendu
 $linux-⛓pendu: sudo chmod +x jeux.sh
