@@ -9,3 +9,11 @@
 </p>
 
 <b align="center">Le bon vieux jeux du pendu écrit en Bash avec une simpliste interface graphique en console</b>
+<p align="center">
+<img src=".enter.png">
+</p>
+<p align="center">
+<img src=".enter.png">
+</p>
+
+### Installation ###
