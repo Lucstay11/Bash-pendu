@@ -25,7 +25,7 @@ toilet
 ```
 
 ```
-$linux-⛓ pendu: sudo git clone https://github.com/Lucstay11/Bash-pendu
+$linux-⛓pendu: sudo git clone https://github.com/Lucstay11/Bash-pendu
 $linux-⛓pendu: cd Bash-pendu
 $linux-⛓pendu: sudo chmod +x jeux.sh
 ``` 
@@ -33,5 +33,5 @@ $linux-⛓pendu: sudo chmod +x jeux.sh
 **`Run the script`**
 
 ```
-$ bash jeux.sh
+$linux-⛓pendu: bash jeux.sh
 ```
