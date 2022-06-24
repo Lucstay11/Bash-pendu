@@ -28,7 +28,7 @@ $linux-⛓pendu: cd Bash-pendu
 $linux-⛓pendu: chmod +x jeux.sh
 ``` 
 
-**`Run the script`**
+**`Lance le script`**
 
 ```
 $linux-⛓pendu: bash jeux.sh
