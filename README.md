@@ -16,14 +16,12 @@
 <img src=".enter.png">
 </p>
 
-### Installation ###
-
 **`Packages`**
 
 ```
 toilet
 ```
-
+**`Installation`**
 ```
 $linux-⛓pendu: sudo git clone https://github.com/Lucstay11/Bash-pendu
 $linux-⛓pendu: cd Bash-pendu
@@ -35,3 +33,5 @@ $linux-⛓pendu: sudo chmod +x jeux.sh
 ```
 $linux-⛓pendu: bash jeux.sh
 ```
+
+> Vous pouvez changer le dictionnaire de mot en remplacants le fichier m.txt
