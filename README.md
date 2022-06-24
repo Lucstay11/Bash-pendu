@@ -17,8 +17,9 @@
 </p>
 
 ### Installation ###
-**`packages´**
 
-´´´
+**`packages`**
+
+```
 toilet
-´´´
+```
