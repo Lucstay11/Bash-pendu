@@ -23,9 +23,9 @@ toilet
 ```
 **`Installation`**
 ```
-$linux-⛓pendu: sudo git clone https://github.com/Lucstay11/Bash-pendu
+$linux-⛓pendu: git clone https://github.com/Lucstay11/Bash-pendu
 $linux-⛓pendu: cd Bash-pendu
-$linux-⛓pendu: sudo chmod +x jeux.sh
+$linux-⛓pendu: chmod +x jeux.sh
 ``` 
 
 **`Run the script`**
@@ -35,3 +35,9 @@ $linux-⛓pendu: bash jeux.sh
 ```
 
 > Vous pouvez changer le dictionnaire de mot en remplacants le fichier m.txt
+
+### Contacter moi sur:
+<p align="left">
+  <a href="https://github.com/Lucstay11" target="_blank"><img src="https://img.shields.io/badge/Github-Lucstay11-green?style=for-the-badge&logo=github"></a>
+<a href="https://discord.gg/ZGfGVmaC" target="_blank"><img src="https://img.shields.io/badge/Discord-Lucstay11-mallow?style=for-the-badge&logo=discord"></a>
+</p>
