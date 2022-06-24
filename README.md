@@ -30,5 +30,6 @@ $linux-⛓pendu: sudo chmod +x jeux.sh
 ``` 
 **`Run the script`**
 ```
+```
 $linux-⛓pendu: bash jeux.sh
 ```
