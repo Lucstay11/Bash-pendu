@@ -12,9 +12,7 @@
 <p align="center">
 <img src=".enter.png">
 </p>
-<p align="center">
-<img src=".enter.png">
-</p>
+
 
 **`Packages`**
 
