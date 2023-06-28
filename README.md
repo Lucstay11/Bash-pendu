@@ -32,6 +32,7 @@ $linux-⛓pendu: chmod +x jeux.sh
 $linux-⛓pendu: bash jeux.sh
 ```
 
+<img src=".game.png">
 > Vous pouvez changer le dictionnaire de mot en remplacants le fichier m.txt
 
 ### Contacter moi sur:
